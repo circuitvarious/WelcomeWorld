@@ -91,3 +91,6 @@ reccess.src = "Recess .mp3";
 
 const specials = new Audio();
 specials.src = "Specials .mp3";
+
+const listen = new Audio();
+listen.src = "Listen.mp3";
